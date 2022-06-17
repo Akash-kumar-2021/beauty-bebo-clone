@@ -1,5 +1,6 @@
 # beauty-bebo-clone
 website link:https://chic-dango-a1cd32.netlify.app
+Blog link:https://medium.com/@akashkumarhit93/beautybebo-com-clone-ea59031ef43a
 
 Summary:-  We cloned a very well known website BeautyBebo.com where a user can purchase Beauty products and can view products category wise. On landing page
            they can see trending products & trending offers.
